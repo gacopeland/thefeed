@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Open+Sans:wght@300&display=swap');
+
+body{
+   
+    max-width: 1200px;
+    margin:auto;
+    font-family: 'Libre Caslon Display', serif;
+}
+
+header{
+
+width: 300px;
+position:fixed;
+top: 25px;
+left: 25px;
+font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+
+width: 300px;
+position:fixed;
+top: 150px;
+left: 25px;
+}
+
+main{
+
+width: 40%;
+margin-left: 40%;
+}
+
+section{
+border: 3px pink solid;
+margin-top: 25px;
+padding: 10px;
+text-align: center;
+}
+
+section{
+border-style:ridge;
+}
+
+section img{
+width: 80%;
+border: 2px pink solid;
+padding: 10px;
+}
+
+section img:hover{
+background-color: lightblue;
+
+}
+
+footer{
+width: 300px;
+position: fixed;
+bottom: 25px;
+left: 25px;
+}
+
+#splashgif {
+text-align: center;
+margin-top: 25%;
+}
+
+#splashgif :hover{
+border: 1px;
+
+
+}
+
+
+
