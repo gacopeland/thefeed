@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Open+Sans:wght@300&display=swap');
 
 body{
-    background-color: aquamarine;
-max-width: 1200px;
+   max-width: 1200px;
     margin:auto;
     font-family: 'Libre Caslon Display', serif;
 }
 
 header{
-    background-color: blue;
 width: 300px;
 position:fixed;
 top: 25px;
@@ -46,7 +44,7 @@ padding: 10px;
 }
 
 section img:hover{
-background-color: lightblue;
+background-color: rgb(197, 229, 239);
 }
 
 footer{
@@ -66,7 +64,7 @@ border: 1px;
 }
 
 #splashheader {
-    background-color: blue;
+    background-color:rgb(208, 207, 207);
     width: 500px;
     text-align: center;
     margin:auto; 
