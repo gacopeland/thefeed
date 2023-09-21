@@ -56,8 +56,11 @@ left: 25px;
 
 #splashgif {
 text-align: center;
-margin-top: 25%;
 }
+
+#splashgifsmall {
+    text-align: left;
+    }
 
 #splashgif:hover{
 border: 1px;
