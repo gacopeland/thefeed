@@ -6,6 +6,7 @@ body{
     font-family: 'Libre Caslon Display', serif;
 }
 
+
 header{
 width: 300px;
 position:fixed;
@@ -13,6 +14,8 @@ top: 25px;
 left: 25px;
 font-family:''Libre Caslon Display', serif;'
 }
+
+
 
 nav{
 width: 300px;
@@ -27,19 +30,19 @@ margin-left: 40%;
 }
 
 section{
-border: 3px pink solid;
+border: 7px rgb(248, 136, 248) ;
 margin-top: 25px;
 padding: 10px;
 text-align: center;
 }
 
 section{
-border-style:ridge;
+border-style:double;
 }
 
 section img{
 width: 80%;
-border: 2px pink solid;
+border: 4px rgb(173, 228, 228)solid;
 padding: 10px;
 }
 
@@ -67,14 +70,14 @@ border: 1px;
 }
 
 #splashheader {
-    background-color:rgb(208, 207, 207);
+    background-color:rgb(173, 228, 228);
     width: 500px;
     text-align: center;
     margin:auto; 
 }
 
 #splashnav {
-    background-color: pink;
+    background-color:rgb(248, 136, 248) ;
     width: 500px;
     text-align: center;
     margin:auto; 
