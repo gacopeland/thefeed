@@ -29,6 +29,14 @@ width: 40%;
 margin-left: 40%;
 }
 
+aside{
+width: 200px;
+position:fixed;
+top: 100px;
+right: 70px;
+
+}
+
 section{
 border: 7px rgb(248, 136, 248) ;
 margin-top: 25px;
